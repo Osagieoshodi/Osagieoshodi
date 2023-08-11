@@ -9,4 +9,3 @@
   - [Created Azure Active Directory, Added Users, Groups, and Grants Access](https://github.com/Osagieoshodi/Configure-Observe-Tenant-Level-Global-Reader)
   - [Created Azure Subscription, Added Resources](https://github.com/Osagieoshodi/CREATED-AZURE-ACCOUNT-VIRTUAL-MACHINE-SQL-SERVER)
   - [Admin Mode, Created SQL Failed Authentication, Created Attack VM in Azure ](https://github.com/Osagieoshodi/Admin-Mode-Acted-as-theAdmin)
-- <b>Azure Logging and Monitoring</b>
