@@ -8,7 +8,7 @@
 - <b>Azure Introduction</b>
   - [Created Azure Active Directory, Added Users, Groups, and Grants Access](https://github.com/Osagieoshodi/Configure-Observe-Tenant-Level-Global-Reader)
   - [Created Azure Subscription, Added Resources](https://github.com/Osagieoshodi/CREATED-AZURE-ACCOUNT-VIRTUAL-MACHINE-SQL-SERVER)
-  - [Precursor to Security Operations, Failed Authentication, and Log Observation ](https://github.com/Osagieoshodi/Azure-Honeynet-SOC)
+  - [Admin Mode, Created SQL Failed Authentication, Created Attack VM ](https://github.com/Osagieoshodi/Admin-Mode-Acted-as-theAdmin)
 - <b>Logging and Monitoring</b>
   - [CREATED AZURE LOGGING AT DIFFERENT LAYERS (TENANT, ACTIVITY, RESOURCE)](https://github.com/Osagieoshodi/Azure-Honeynet-SOC)
   - [ENABLE MDC AND CONFIGURE LOG COLLECTION FOR VIRTUAL MACHINES](https://github.com/Osagieoshodi/Azure-Honeynet-SOC)
