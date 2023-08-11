@@ -4,4 +4,3 @@
 
 - <b>Azure Projects Overview</b>
   - [Created a SOC and Honeynet within Azure](https://github.com/Osagieoshodi/Azure-Honeynet-SOC)
-- <b>Azure Introduction</b>
