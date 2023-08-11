@@ -7,7 +7,7 @@
   - [Created a SOC and Honeynet within Azure](https://github.com/Osagieoshodi/Azure-Honeynet-SOC)
 - <b>Azure Introduction</b>
   - [Created Azure Active Directory, Added Users, Groups, and Grants Access](https://github.com/Osagieoshodi/Configure-Observe-Tenant-Level-Global-Reader)
-  - [Created Azure Subscription, Added Resources](https://github.com/Osagieoshodi/Azure-Honeynet-SOC)
+  - [Created Azure Subscription, Added Resources](https://github.com/Osagieoshodi/CREATED-AZURE-ACCOUNT-VIRTUAL-MACHINE-SQL-SERVER)
   - [Precursor to Security Operations, Failed Authentication, and Log Observation ](https://github.com/Osagieoshodi/Azure-Honeynet-SOC)
 - <b>Logging and Monitoring</b>
   - [CREATED AZURE LOGGING AT DIFFERENT LAYERS (TENANT, ACTIVITY, RESOURCE)](https://github.com/Osagieoshodi/Azure-Honeynet-SOC)
