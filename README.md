@@ -11,5 +11,5 @@
 
 
 - <b>SET UP HOME-LAB-ACTIVE DIRECTORY</b>
-  - Home lab practical environment](https://github.com/Osagieoshodi/AZURE-ACTIVE-DIRECTORY-OVERVIEW-USERS-GROUPS-AND-ACCESS-MANAGEMENT)
+  - [Home lab practical environment](https://github.com/Osagieoshodi/Home-Lab-Active-Directory)
 
