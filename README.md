@@ -6,10 +6,10 @@
   - [Created a SOC and Honeynet within Azure](https://github.com/Osagieoshodi/Azure-Honeynet-SOC)
 
 
-- <b>Azure Admin Mode</b>
-  - [Pretended as the Admin, Created Windows-Linux-VMs, Simulated Failed Attacks within Azure](https://github.com/Osagieoshodi/AZURE-ACTIVE-DIRECTORY-OVERVIEW-USERS-GROUPS-AND-ACCESS-MANAGEMENT)
+- <b>SYSTEM ADMINISTRATION | AZURE</b>
+  - [Created Attack VMs, Lunched Attacks within Azure](https://github.com/Osagieoshodi/AZURE-ACTIVE-DIRECTORY-OVERVIEW-USERS-GROUPS-AND-ACCESS-MANAGEMENT)
 
 
-- <b>SET UP HOME-LAB-ACTIVE DIRECTORY</b>
-  - [Home lab practical environment](https://github.com/Osagieoshodi/Home-Lab-Active-Directory)
+- <b>SYSTEM ADMINISTRATION EXPERIENCE</b>
+  - [WINDOWS SERVER 2016 | Hands-On Virtual Labs](https://github.com/Osagieoshodi/Home-Lab-Active-Directory)
 
